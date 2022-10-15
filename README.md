@@ -1,6 +1,6 @@
 ### Hi my name is Rafael Antonio 👋
 
-⚡ **Senior Software Engineer | Senior Software Developer at Ânima Educação | C#, .NET, .NET Core, PHP, LARAVEL, AWS and so on.**
+💼 **Senior Software Engineer | Senior Software Developer at Ânima Educação | C#, .NET, .NET Core, PHP, LARAVEL, AWS and so on.**
 
 More than 10 years in the area of software development as a professional. My main programming language has always been PHP, but always accompanied by other skills.
 
@@ -8,8 +8,7 @@ I had the opportunity to manage several projects where I was responsible for the
 
 In all the projects I developed, I always looked for innovation and safety, I had the opportunity to work with great professionals and different technologies.
 
-
-
+📫 Resident in the city of São Paulo/SP - Brasil
 
 <!--
 **rafauel/rafauel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
