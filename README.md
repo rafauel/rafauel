@@ -1,5 +1,6 @@
 ### Hi my name is Rafael Antonio 👋
 
+⚡ **Senior Software Engineer | Senior Software Developer at Ânima Educação | C#, .NET, .NET Core, PHP, LARAVEL, AWS and so on.**
 
 More than 10 years in the area of software development as a professional. My main programming language has always been PHP, but always accompanied by other skills.
 
