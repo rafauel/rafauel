@@ -10,6 +10,9 @@ In all the projects I developed, I always looked for innovation and safety, I ha
 
 📫 Resident in the city of São Paulo/SP - Brasil
 
+👨‍👩‍👦 I have a son and a wife.
+
+💬 Ask me about ...
 <!--
 **rafauel/rafauel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
