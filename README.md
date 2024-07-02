@@ -1,6 +1,6 @@
 ### Hi my name is Rafael Antonio 👋
 
-💼 **Senior Software Engineer | Senior Software Developer at BTG Pactual | C#, .NET, .NET Core, PHP, LARAVEL, AWS and so on.**
+💼 **Senior Software Engineer at BTG Pactual | C#, .NET, .NET Core, PHP, LARAVEL, Vuejs, AWS, Azure Devops, SQL Server, DynamoDB, Minimal API, PostGreSql, S3, SQS, Dynatrace, Rancher, Apache Kafka, Snowflake, Git Lab and so on.**
 
 More than 11 years in the area of software development as a professional. My main programming language has always been PHP, but always accompanied by other skills.
 
@@ -9,8 +9,6 @@ I had the opportunity to manage several projects where I was responsible for the
 In all the projects I developed, I always looked for innovation and safety, I had the opportunity to work with great professionals and different technologies.
 
 📫 Resident in the city of São Paulo/SP - Brasil
-
-👨‍👩‍👦 I have a son and a wife.
 
 💬 Ask me about ...
 <!--
